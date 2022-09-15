@@ -3,6 +3,6 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "rxjs": "^7.5.6"
+    "@microsoft/fast-element": "^1.10.5"
   }
 }
